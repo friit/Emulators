@@ -1,0 +1,5 @@
+﻿  CHIP8.cpp
+c:\users\pc\projects\emulators\emulators.chip8\chip8.cpp(490): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\pc\projects\emulators\emulators.chip8\chip8.cpp(501): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\pc\projects\emulators\emulators.chip8\chip8.cpp(95): warning C4715: 'CHIP8::GetKeyPressed': not all control paths return a value
+  Emulators.CHIP8.vcxproj -> C:\Users\PC\Projects\Emulators\Debug\Emulators.CHIP8.exe
